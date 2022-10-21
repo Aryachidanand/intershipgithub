@@ -1,4 +1,4 @@
-a=20
-b=30
-sum=a+b
+y=20
+x=30
+sum=x+y
 print('sum',sum)
